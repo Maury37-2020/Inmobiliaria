@@ -1,0 +1,52 @@
+[
+    {  
+    "tipo": 1, 
+    "datos":[
+            {   
+                "id": 1,
+                "Descripcion": "Casa grande con pileta",
+                "Imagen": "casa.jpg"
+            },
+            {
+                "id": 2,
+                "Descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, temporibus eos repellendus laboriosam delectus culpa provident tempora itaque maiores sit accusamus facere hic, voluptates accusantium officia. Fugiat tempore earum itaque.",
+                "Imagen": "casa2.jpg"
+            },
+            {
+                "id": 3,
+                "Descripcion": "Casa grande con garage doble",
+                "Imagen": "casa3.jpg"
+            },
+            {
+                "id": 4,
+                "Descripcion": "Casa chica con pileta",
+                "Imagen": "ciudad.jpg"
+            }
+        ]
+    },
+    {
+        "tipo": 2, 
+        "datos":[
+            {   
+                "id": 1,
+                "Descripcion": "Casa grande con pileta y doble garage",
+                "Imagen": "casa.jpg"
+            },
+            {
+                "id": 2,
+                "Descripcion": "Casa grande sin pileta y sótano",
+                "Imagen": "casa2.jpg"
+            },
+            {
+                "id": 3,
+                "Descripcion": "Casa chica con garage doble",
+                "Imagen": "casa3.jpg"
+            },
+            {
+                "id": 4,
+                "Descripcion": "Casa chica con pileta y terraza",
+                "Imagen": "ciudad.jpg"
+            }
+        ]
+    }
+]
